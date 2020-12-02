@@ -1,0 +1,88 @@
+/*@import url(./fonts.css)*/
+
+
+/* navbar start*/
+
+.navbar navbar-brand {
+    padding: 0 1.0rem 0 2.0rem;
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.2rem;
+}
+
+.navbar .img {
+    height: 70%;
+    width: auto;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* navbar end*/
+
+.main-site .site-banner .site-title,
+h4 {
+    font-family: 'Major Mono Display', monospace;
+}
+
+.main-site .site-banner .site-title {
+    padding-top: 20%;
+}
+
+.hr {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.main-site .site-banner {
+    font-size: 3rem;
+    color: darkslategray;
+}
+
+.main-site .site-banner h3 {
+    font-size: 2.5rem;
+    color: rgb(4, 26, 26);
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+.main-site .site-banner h1 {
+    color: rgb(0, 0, 0);
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+
+/* about section header */
+
+.about-area .about_section {
+    text-align: center;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+hr {
+    vertical-align: middle;
+}
+
+.parag {
+    vertical-align: middle;
+}
+
+
+/* about me paragraph*/
+
+.para {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    /*text-align: center;*/
+    font-size: 1.5 rem;
+    line-height: 1.5;
+}
+
+.abtimg {
+    float: left;
+    margin: 5px;
+}
